@@ -1,0 +1,2476 @@
+image/jpegapplication/octet-streamapplication/octet-streamimage/jpegapplication/octet-streamapplication/octet-streamapplication/octet-streamimage/jpegapplication/octet-streamapplication/octet-streamapplication/octet-streamUploaded file type: application/octet-stream
+Uploaded file extension: jpg
+Uploaded file type: application/octet-stream
+Uploaded file extension: jpg
+Uploaded file type: application/octet-stream
+Uploaded file extension: jpg
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 4.731963085258251e-12
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpF662.tmp
+            [error] => 0
+            [size] => 206706
+        )
+
+)
+Class Name: Normal, Confidence Score: 4.731963085258251e-12
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.8929890990257263
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => e35ebda4-4f94-4d67-9056-c8a4079bb1d28239730060627519614.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php47AD.tmp
+            [error] => 0
+            [size] => 199592
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.8929890990257263
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.000009743705049913842
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpE800.tmp
+            [error] => 0
+            [size] => 222140
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.000009743705049913842
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 7.586776291645947e-7
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php221C.tmp
+            [error] => 0
+            [size] => 59318
+        )
+
+)
+Class Name: Normal, Confidence Score: 7.586776291645947e-7
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 6.087232495843864e-9
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php3C9A.tmp
+            [error] => 0
+            [size] => 8152
+        )
+
+)
+Class Name: Normal, Confidence Score: 6.087232495843864e-9
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.000008184199941752013
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php569B.tmp
+            [error] => 0
+            [size] => 224553
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.000008184199941752013
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 2.5615792154098926e-8
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php7C07.tmp
+            [error] => 0
+            [size] => 251387
+        )
+
+)
+Class Name: Normal, Confidence Score: 2.5615792154098926e-8
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.000001219229261550936
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpCAD5.tmp
+            [error] => 0
+            [size] => 14257
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.000001219229261550936
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 4.731963085258251e-12
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => web_image.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php50F3.tmp
+            [error] => 0
+            [size] => 206706
+        )
+
+)
+Class Name: Normal, Confidence Score: 4.731963085258251e-12
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3940582573413849
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpC0E9.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3940582573413849
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27558356523513794
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpA37.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27558356523513794
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpAE70.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.19794811308383942
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpF3A8.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.19794811308383942
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2654566168785095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php297E.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2654566168785095
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.20336474478244781
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php5AB1.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.20336474478244781
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.29527726769447327
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php7629.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.29527726769447327
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.36226537823677063
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php96F0.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.36226537823677063
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2550947368144989
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpAA9F.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2550947368144989
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2550947368144989
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8585.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2550947368144989
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2558584213256836
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php2F06.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2558584213256836
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php3B62.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php68DB.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.19794811308383942
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpCFC.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.19794811308383942
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.19794811308383942
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php421A.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.19794811308383942
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.19794811308383942
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpC9B8.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.19794811308383942
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.19794811308383942
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php7C9F.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.19794811308383942
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php9960.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3785274028778076
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php65EC.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3785274028778076
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8973.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php3942.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php619B.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3785274028778076
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpFF1E.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3785274028778076
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php20A1.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpD8CA.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php7739.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8D96.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpAE7D.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpD8B1.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpACA.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.19794811308383942
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpAC1.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.19794811308383942
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php28BC.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php488A.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.255086213350296
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpB590.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.255086213350296
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25517821311950684
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php52E2.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25517821311950684
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2553209364414215
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpF7AF.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2553209364414215
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25575581192970276
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpCC76.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25575581192970276
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpA922.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3624246120452881
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8313.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3624246120452881
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.27561792731285095
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpED20.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.27561792731285095
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2020488977432251
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpF002.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2020488977432251
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.415092796087265
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpC0CD.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.415092796087265
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25590720772743225
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpE8BF.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25590720772743225
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpE887.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3940582573413849
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php7F2C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3940582573413849
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2415827512741089
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpE634.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2415827512741089
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8DB0.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3940582573413849
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php94A7.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3940582573413849
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25663071870803833
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpEA46.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25663071870803833
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2548329830169678
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpCD19.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2548329830169678
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.22669894993305206
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php4D5C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.22669894993305206
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8B8F.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2023135870695114
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php92CF.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2023135870695114
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php35B7.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpFEEF.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2559361457824707
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php5475.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2559361457824707
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2548581659793854
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpA238.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2548581659793854
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25380373001098633
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpD56B.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25380373001098633
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2569105625152588
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpFFC4.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2569105625152588
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25576654076576233
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php1E54.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25576654076576233
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25580093264579773
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php613D.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25580093264579773
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25642290711402893
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php2962.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25642290711402893
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25421807169914246
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php80DE.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25421807169914246
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2545929253101349
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php4A0C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2545929253101349
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25435400009155273
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php2320.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25435400009155273
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25349530577659607
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpCBAB.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25349530577659607
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2578805088996887
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php1F12.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2578805088996887
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2544388473033905
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php9CDB.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2544388473033905
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25581830739974976
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpCBFD.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25581830739974976
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25581830739974976
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php310C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25581830739974976
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25581830739974976
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php3D71.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25581830739974976
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25581830739974976
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpA286.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25581830739974976
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25581830739974976
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpB004.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25581830739974976
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25581830739974976
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php171C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25581830739974976
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25581830739974976
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php1CF9.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25581830739974976
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2567668557167053
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpD484.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2567668557167053
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25575244426727295
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpF4BC.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25575244426727295
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php62C1.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.29527726769447327
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php91FF.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.29527726769447327
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.30103790760040283
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpE5AE.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.30103790760040283
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpB520.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2133653461933136
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpFB04.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2133653461933136
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.36226537823677063
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php300F.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.36226537823677063
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.415092796087265
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php4E65.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.415092796087265
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.36226537823677063
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php961E.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.36226537823677063
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.415092796087265
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpB445.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.415092796087265
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.4691350758075714
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpD21F.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.4691350758075714
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.37041175365448
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpFF4B.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.37041175365448
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2627100646495819
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php1AE2.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2627100646495819
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.43038269877433777
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php459D.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.43038269877433777
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.37041175365448
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php302C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.37041175365448
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.257201611995697
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpEF49.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.257201611995697
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.257201611995697
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php1068.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.257201611995697
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpF089.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2769569456577301
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php184C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2769569456577301
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php15A9.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.3940582573413849
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpE771.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.3940582573413849
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.29527726769447327
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php9DF2.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.29527726769447327
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2025047391653061
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpBFA4.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2025047391653061
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.20584674179553986
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpF115.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.20584674179553986
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.4001985788345337
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php293D.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.4001985788345337
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.251993328332901
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php60C9.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.251993328332901
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.251993328332901
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpD8F8.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.251993328332901
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.23952916264533997
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpC58B.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.23952916264533997
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25525563955307007
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpB77C.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25525563955307007
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25525563955307007
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8AD6.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25525563955307007
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2560507655143738
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php9BBA.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2560507655143738
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2560507655143738
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpC5BF.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2560507655143738
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25598177313804626
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php9E2E.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25598177313804626
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25598177313804626
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpD24F.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25598177313804626
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25598177313804626
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php8887.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25598177313804626
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25598177313804626
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpAF59.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25598177313804626
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25598177313804626
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php711F.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25598177313804626
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25598177313804626
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php9C95.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25598177313804626
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.25598177313804626
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php2609.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.25598177313804626
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.36226537823677063
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php4EDB.tmp
+            [error] => 0
+            [size] => 4
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.36226537823677063
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.34165000915527344
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpCD5E.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.34165000915527344
+Database connected successfully.
+Array
+(
+    [class_name] => Normal
+    [confidence_score] => 0.34165000915527344
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpC3E4.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Normal, Confidence Score: 0.34165000915527344
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2529209554195404
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => tmp0de3xahs
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpBD1D.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2529209554195404
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2901596426963806
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => tmpqb_4tk6a
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\phpFA9.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2901596426963806
+Database connected successfully.
+Array
+(
+    [class_name] => Abnormal
+    [confidence_score] => 0.2881443202495575
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => image
+            [type] => 
+            [tmp_name] => C:\xampp\tmp\php59D.tmp
+            [error] => 0
+            [size] => 0
+        )
+
+)
+Class Name: Abnormal, Confidence Score: 0.2881443202495575
